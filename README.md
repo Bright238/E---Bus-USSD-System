@@ -2,7 +2,24 @@
 # 
 USSD-Bus-Ticket-System-using-Africa-s-Talking
 
-Develope your own custom ussd bus ticketing system.
+This is a final year software engineering group project for Zambian public buses and public travellers within zambia. its purpose is to automate the manual way of buying and selling of bus seat tickets.
+
+Group Members
+John Yobah
+Kennedy Ngosa
+Jacob Chikwanda
+Bright Kampamulomo
+The System conatains three main sub directory
+
+api
+ussd_client
+web_client
+api Subdirectory
+This subdirectory has the backend application developed using express, prisma and mysql. to install the api aplication
+
+cd into api folder and run #### npm install.
+Documentation
+Backend APIs Doucmentation
 
 
 ## Badges
