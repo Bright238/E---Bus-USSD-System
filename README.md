@@ -2,7 +2,7 @@
 # 
 USSD-Bus-Ticket-System-using-Africa-s-Talking
 
-Develope your own custom ussd bus ticketing system with the code sample.
+Develope your own custom ussd bus ticketing system.
 
 
 ## Badges
